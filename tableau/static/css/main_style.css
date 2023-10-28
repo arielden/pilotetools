@@ -1,0 +1,29 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header {
+    color:blue;
+    font-size: 2.3rem;
+    padding-top: 10px;
+    padding-left: 30px;
+    border: 2px;
+    border-color:red;
+    border-style: dashed;
+}
+
+.main_content {
+    color: gray;
+    font-size: 1.4rem;
+    border: 2px;
+    border-color:blue;
+    border-style: dashed;
+}
+
+.footer {
+    color: crimson;
+    font-size: 1rem;
+    border: 2px;
+    border-color:blueviolet;
+    border-style: dashed;
+}
